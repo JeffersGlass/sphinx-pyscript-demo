@@ -15,7 +15,7 @@ Sphinx Site with PyScript
     splashscreen:
         autoclose: true
 
-This page demos how PyScript can be used to make online documentation interactive inside of Sphinx. It is one of the demos created for the conference talk 'Making Your Documentation Interactive with PyScript' by Jeff Glass. See [more details on that talk](https://github.com/JeffersGlass/pyscript-docs-demo-S3) or [the code for this site](https://github.com/JeffersGlass/mkdocs-pyscript-demo) on GitHub.
+This page demos how PyScript can be used to make online documentation interactive inside of Sphinx. It is one of the demos created for the conference talk 'Making Your Documentation Interactive with PyScript' by Jeff Glass. See `more details on that talk <https://github.com/JeffersGlass/pyscript-docs-demo-S3>`_ or `the code for this site <https://github.com/JeffersGlass/mkdocs-pyscript-demo>`_ on GitHub.
 
 The Datetime Module
 ###################
