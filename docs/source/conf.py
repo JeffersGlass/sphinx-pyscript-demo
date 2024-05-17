@@ -14,8 +14,9 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+# Using a pre-release version of this plugin developed for PyCon2024 =)s
 extensions = [
-    "sphinx_pyscript",
+    "sphinx_pyscript_temp",
 ]
 
 templates_path = ['_templates']
